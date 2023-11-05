@@ -2,12 +2,11 @@
 
 echo "User Name: jeongyewon" # 사용자 이름 출력
 echo "Student Number: 12223815" # 학번 출력
-/*whoami 기능을 사용하고 싶으면
-user_name=$(whoami)
-echo "User Name: $user_name"
-
-read -p "Student Number: " student_number
-으로 사용하기*/
+#whoami 기능을 사용하고 싶으면
+#user_name=$(whoami)
+#echo "User Name: $user_name"
+#read -p "Student Number: " student_number
+#으로 사용하기
 
 echo "[ MENU ]" # 메뉴 출력 시작
 echo "1. Get the data of the movie identified by a specific 'movie id' from 'u.item'" # 1번 메뉴 설명
